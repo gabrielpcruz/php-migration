@@ -27,4 +27,4 @@ class foo {
     foo has a deprecated constructor in example.php on line 16
  */
 
-
+// TEM ISSO NO NUSOAP e FRAMEWORK

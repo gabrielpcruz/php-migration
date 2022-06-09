@@ -20,3 +20,5 @@ squareArray((getArray()));
 
 // Notice: Only variables should be passed by reference in /tmp/test.php on line 13
 
+
+// VERIFICAR

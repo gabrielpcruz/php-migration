@@ -33,3 +33,5 @@ foreach ($array as &$val) {
     int(1)
 
 */
+
+// VERIFICAR ISSO NO SISTEMA, POIS TEM VÁRIOS FOREACH QUE ALTERAMOS OS VALORES

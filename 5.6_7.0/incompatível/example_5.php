@@ -21,3 +21,5 @@ foreach ($array as &$val) {
     int(0)
     int(0)
 */
+
+// ACHO QUE NAO FAZEMOS ESSA VERIFICAÇÃO

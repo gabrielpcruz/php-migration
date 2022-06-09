@@ -20,3 +20,5 @@
 
 // Somente PHP 7.
     // function handler(Throwable $e) { ... }
+
+// TEM ISSO NA ROTINA QUE ENVIA RELATORIO PELA FILA

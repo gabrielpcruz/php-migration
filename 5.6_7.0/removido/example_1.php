@@ -23,3 +23,7 @@ A variável $HTTP_RAW_POST_DATA não está mais disponível.
 Ao invés disso o stream php://input deve ser utilizado.
 
   */
+
+
+// VERIFICAR ISSO NOS WEBSERVICES
+// REVISAR PHPINI

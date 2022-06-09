@@ -34,3 +34,5 @@ class B {
 
     Notice: Undefined variable: this in /tmp/test.php on line 3 NULL
  */
+
+// TEM ISSO EM VÁRIOS LUGARES DO SISTEMA
